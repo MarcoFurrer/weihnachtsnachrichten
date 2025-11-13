@@ -1,0 +1,4 @@
+*.csv
+!sample_output.csv
+.venv
+.env
